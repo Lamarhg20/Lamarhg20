@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python]
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation and OU placement]
+  - [Active Directory Bulk User Creation and OU placement](https://github.com/Lamarhg20/AD_Automation)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
   - [JWipe (Disk Wiping Utility)]
   - [FIM (File Integrity Monitor)]
