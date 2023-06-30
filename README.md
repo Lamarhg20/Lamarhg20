@@ -16,7 +16,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Keylogger with Email Capability]
   - [Chat-Bot](https://github.com/Lamarhg20/Chat_bot)
-  - [image scrapper]
+  - [Image Scrapper](https://github.com/Lamarhg20/Image_Scrapper)
   - [video scrapper]
   - [table scrapper]
 
