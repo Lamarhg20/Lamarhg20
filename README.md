@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lamar! <br/><a href="https://github.com/Lamarhg20">Programmer</a>, <a href="www.linkedin.com/in/lamar-gardner-391383232/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Programming, Cyber Security and Other IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]
@@ -12,7 +12,7 @@
   - [FIM (File Integrity Monitor)]
   
 - <b>Python</b>
-  - [Text Adventure Game (My First Code attempt)]
+  - [Text Adventure Game (My First Code attempt)](https://github.com/Lamarhg20/Text_Adventure)
   - [Keylogger with Email Capability]
   - [Chat-Bot(ML Practice)](https://github.com/Lamarhg20/Chat_bot)
   - [Image Scraper](https://github.com/Lamarhg20/Image_Scrapper)
