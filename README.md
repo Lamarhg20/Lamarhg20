@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lamar! <br/><a href="https://github.com/Lamarhg20">Programmer and</a> <a href="www.linkedin.com/in/lamar-gardner-391383232/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Programming, Cybersecurity and Other IT Projects:</h2>
+<h2> Programming, Cybersecurity and Other IT Projects:</h2>
 
 - <b>Windows Server Set up and Active Directory Management</b>
   - [Set Up Windows Server 19](https://github.com/Lamarhg20/AD_Server_Set_Up)
