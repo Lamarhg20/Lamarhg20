@@ -3,7 +3,8 @@
 <h2>👨‍💻 Programming, Cybersecurity and Other IT Projects:</h2>
 
 - <b>Windows Server Set up and Active Directory Management</b>
-  - [Praciting DS & Algos in Python]
+  - [Set Up Windows Server 19]
+  - [Set Up DNS and Routing on Windows Server 19]
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation and OU placement](https://github.com/Lamarhg20/AD_Automation)
