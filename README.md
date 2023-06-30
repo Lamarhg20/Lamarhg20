@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lamar! <br/><a href="https://github.com/Lamarhg20">Programmer</a> and <a href="www.linkedin.com/in/lamar-gardner-391383232/">Cybersecurity Professional</a>
+<h1>Hi, I'm Lamar! <br/><a href="https://github.com/Lamarhg20">Programmer</a> <a and </a> <a href="www.linkedin.com/in/lamar-gardner-391383232/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Programming, Cyber Security and Other IT Projects:</h2>
 
