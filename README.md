@@ -8,13 +8,10 @@
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation and OU placement](https://github.com/Lamarhg20/AD_Automation)
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
-  - [FIM (File Integrity Monitor)]
+
   
 - <b>Python</b>
   - [Text Adventure Game (My First Code attempt)](https://github.com/Lamarhg20/Text_Adventure)
-  - [Keylogger with Email Capability]
   - [Chat-Bot(ML Practice)](https://github.com/Lamarhg20/Chat_bot)
   - [Image Scraper](https://github.com/Lamarhg20/Image_Scrapper)
   - [Video Scraper](https://github.com/Lamarhg20/Video_Scrapper)
