@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability]
   - [Chat-Bot](https://github.com/Lamarhg20/Chat_bot)
   - [Image Scrapper](https://github.com/Lamarhg20/Image_Scrapper)
-  - [video scrapper]
+  - [video scrapper](https://github.com/Lamarhg20/Video_Scrapper)
   - [table scrapper]
 
 
