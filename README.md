@@ -5,7 +5,7 @@
 - <b>Windows Server Set up and Active Directory Management</b>
   - [Set Up Windows Server 19](https://github.com/Lamarhg20/AD_Server_Set_Up)
   - [Set Up DNS and Routing on Windows Server 19](https://github.com/Lamarhg20/DNS_And_Routing_Win_Server_19)
-  - [Setting Group Policies and Best Practices]
+  - [Setting Group Policies and Best Practices](https://github.com/Lamarhg20/Setting_Group_Policies)
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation and OU placement](https://github.com/Lamarhg20/AD_Automation)
