@@ -10,6 +10,7 @@
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation and OU placement](https://github.com/Lamarhg20/AD_Automation)
   - [Aging User Profile Clean Up](https://github.com/Lamarhg20/Profile_cleanup_with_PowerShell)
+  - [Other PowerShell Scripts](https://github.com/Lamarhg20/Powershell_Scripts)
 
   
 - <b>Python</b>
